@@ -2,7 +2,7 @@
 
 ----
 
-![](image.png)
+![](loss-fn-img.png)
 
 # The Loss Function
 
