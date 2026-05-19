@@ -571,5 +571,146 @@ Now go run the loop on purpose.
 *Run the loop on purpose. The rest follows.*
 
 
+--------
 
+# SAMPLE OUTPUT from `demo.py`
+
+```
+============ SYSTEM INITIALIZATION: SYSTEM INTERNALS LOG ============
+Subject       : Alex
+Historical Dataset : Chronic relational volatility; defense optimization.
+Current State : Overfit to past trauma. System assumes threat by default.
+=====================================================================
+
+--- [DAY 1: THE LOOP BEGINS] ---
+  The Morning Posture (Internal Settings):
+    • Baseline Trust (Bias)  : 0.15 -> Defensive shell. Expecting coldness.
+    • Sensitivity (Weight)   : 0.20 (How much external proof Alex requires)
+
+  The Event (External Input):
+    "A new friend returns a vulnerable text quickly."
+    • Predicted Safety : 0.31
+    • Actual Safety    : 0.85
+
+  The Internal Collision (Dissonance Calculation):
+    • Loss Score : 0.2916
+    ⚠️  POSITIVE SURPRISE SPIKE: Reality was kinder than the model predicted.
+       Internal Monologue: 'They actually care? Why would they do that? This doesn't fit my code.'
+
+  The Night Shift (Parameter Re-tuning):
+    Trimming error. Running optimization over the day's footprints...
+    • Bias Shift   : 0.15 -> 0.37
+    • Weight Shift : 0.20 -> 0.37
+    Status: Model parameters updated. Sleeping...
+
+------------------------------------------------------------
+
+--- [DAY 2: THE LOOP BEGINS] ---
+  The Morning Posture (Internal Settings):
+    • Baseline Trust (Bias)  : 0.37 -> Cautious. Testing the perimeter.
+    • Sensitivity (Weight)   : 0.37 (How much external proof Alex requires)
+
+  The Event (External Input):
+    "A coworker proactively offers help on a tough day."
+    • Predicted Safety : 0.63
+    • Actual Safety    : 0.90
+
+  The Internal Collision (Dissonance Calculation):
+    • Loss Score : 0.0746
+    ⚠️  POSITIVE SURPRISE SPIKE: Reality was kinder than the model predicted.
+       Internal Monologue: 'They actually care? Why would they do that? This doesn't fit my code.'
+
+  The Night Shift (Parameter Re-tuning):
+    Trimming error. Running optimization over the day's footprints...
+    • Bias Shift   : 0.37 -> 0.48
+    • Weight Shift : 0.37 -> 0.45
+    Status: Model parameters updated. Sleeping...
+
+------------------------------------------------------------
+
+--- [DAY 3: THE LOOP BEGINS] ---
+  The Morning Posture (Internal Settings):
+    • Baseline Trust (Bias)  : 0.48 -> Cautious. Testing the perimeter.
+    • Sensitivity (Weight)   : 0.45 (How much external proof Alex requires)
+
+  The Event (External Input):
+    "A partner remembers a small, specific preference."
+    • Predicted Safety : 0.88
+    • Actual Safety    : 0.85
+
+  The Internal Collision (Dissonance Calculation):
+    • Loss Score : 0.0009
+    ✅ LOW DISSONANCE: Reality aligns with expectations. The nervous system settles.
+       Internal Monologue: 'Okay. This makes sense. We are safe right here.'
+
+  The Night Shift (Parameter Re-tuning):
+    Trimming error. Running optimization over the day's footprints...
+    • Bias Shift   : 0.48 -> 0.46
+    • Weight Shift : 0.45 -> 0.44
+    Status: Model parameters updated. Sleeping...
+
+------------------------------------------------------------
+
+--- [DAY 4: THE LOOP BEGINS] ---
+  The Morning Posture (Internal Settings):
+    • Baseline Trust (Bias)  : 0.46 -> Cautious. Testing the perimeter.
+    • Sensitivity (Weight)   : 0.44 (How much external proof Alex requires)
+
+  The Event (External Input):
+    "A stranger bumps past rudely on the subway corridor."
+    • Predicted Safety : 0.55
+    • Actual Safety    : 0.10
+
+  The Internal Collision (Dissonance Calculation):
+    • Loss Score : 0.2035
+    🚨 COMPULSIVE REGRESSION SPIKE: A negative data point matches the old childhood dataset.
+       Internal Monologue: 'I knew it. See? Trusting people is a design flaw.'
+
+  The Night Shift (Parameter Re-tuning):
+    Trimming error. Running optimization over the day's footprints...
+    • Bias Shift   : 0.46 -> 0.28
+    • Weight Shift : 0.44 -> 0.40
+    Status: Model parameters updated. Sleeping...
+
+------------------------------------------------------------
+
+--- [DAY 5: THE LOOP BEGINS] ---
+  The Morning Posture (Internal Settings):
+    • Baseline Trust (Bias)  : 0.28 -> Defensive shell. Expecting coldness.
+    • Sensitivity (Weight)   : 0.40 (How much external proof Alex requires)
+
+  The Event (External Input):
+    "A mentor explicitly defends Alex's work in a high-stakes meeting."
+    • Predicted Safety : 0.60
+    • Actual Safety    : 0.95
+
+  The Internal Collision (Dissonance Calculation):
+    • Loss Score : 0.1190
+    ⚠️  POSITIVE SURPRISE SPIKE: Reality was kinder than the model predicted.
+       Internal Monologue: 'They actually care? Why would they do that? This doesn't fit my code.'
+
+  The Night Shift (Parameter Re-tuning):
+    Trimming error. Running optimization over the day's footprints...
+    • Bias Shift   : 0.28 -> 0.42
+    • Weight Shift : 0.40 -> 0.51
+    Status: Model parameters updated. Sleeping...
+
+------------------------------------------------------------
+
+============ POST-TRAINING METRICS SUMMARY ============
+Alex's Final Baseline Trust (Bias): 0.42 (Up from 0.15)
+Alex's Final Sensitivity (Weight) : 0.51 (Up from 0.20)
+-------------------------------------------------------
+Narrative Analysis:
+Alex did not delete the old memories. The original training data remains.
+Instead, through 5 consecutive days of raw, courageous living, Alex
+forced the nervous system to process reality exactly as it arrived.
+
+Notice Day 4: A random subway jerk caused a massive defensive relapse.
+But because the learning rate was healthy, a single bad day didn't
+destroy the progress. Day 5 corrected the course.
+
+The model is running. The next update is yours.
+=======================================================
+```
 
